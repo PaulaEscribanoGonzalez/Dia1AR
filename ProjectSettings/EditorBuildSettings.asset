@@ -4,8 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Paula Escribano/Scenes/Pr\xE1ctica/Scene0.unity"
+    guid: c80b53506651be84bb852617488bf4f8
+  - enabled: 1
+    path: "Assets/Paula Escribano/Scenes/Pr\xE1ctica/Scene1.unity"
+    guid: 04c4f3d09f2b7f24888ed447021f644c
+  - enabled: 1
+    path: "Assets/Paula Escribano/Scenes/Pr\xE1ctica/Scene2.unity"
+    guid: 44cf9605c5752a74eaed55c29939eff6
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b5e3d74a5bb27c14987e08ffe90dfa2a, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 81b62abba00b46341b2ee8ff5f80a653, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2858af3dc73b6ca4dafe98504ed510b4, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: d3980efa637409741991c2ac69a0cb03, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e0de6e7a33ac63648a924ab039e26be2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5c20b80b55e49c6498cbe103de1a2843, type: 2}
